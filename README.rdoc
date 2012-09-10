@@ -1,5 +1,7 @@
 = ActiveAdmin-Cancan
 
+
+
 ActiveAdmin-Cancan provides a smooth integration of the two gems ActiveAdmin[https://github.com/gregbell/active_admin] and Cancan[https://raw.github.com/ryanb/cancan].
 
 {<img src="https://secure.travis-ci.org/11factory/activeadmin-cancan.png" />}[http://travis-ci.org/11factory/activeadmin-cancan]
